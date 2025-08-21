@@ -1,0 +1,45 @@
+timestamp,action,userFirstName,userLastName,userRole,details
+2025-04-26 06:23:15,ADD_STUDENT,John,Doe,TEACHER,Added student: Alice Johnson with 0 tokens
+2025-04-26 06:23:15,ADD_STUDENT,John,Doe,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 06:23:15,UPDATE_TOKENS,Jane,Smith,STUDENT,Updated tokens for David Lee: 0 -> 5
+2025-04-26 06:23:15,ADD_STUDENT,John,Doe,TEACHER,Added student: Bob Wilson with 0 tokens
+2025-04-26 06:23:15,UPDATE_TOKENS,John,Doe,TEACHER,Updated tokens for Bob Wilson: 0 -> 5
+2025-04-26 06:23:15,ADD_STUDENT,John,Doe,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 06:23:15,REMOVE_STUDENT,John,Doe,TEACHER,Removed student: Charlie Brown
+2025-04-26 06:25:45,ADD_STUDENT,John,Doe,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 06:25:45,REMOVE_STUDENT,John,Doe,TEACHER,Removed student: Charlie Brown
+2025-04-26 06:26:31,ADD_STUDENT,John,Doe,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 06:26:31,REMOVE_STUDENT,John,Doe,TEACHER,Removed student: Charlie Brown
+2025-04-26 06:27:53,ADD_STUDENT,John,Doe,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 06:27:53,REMOVE_STUDENT,John,Doe,TEACHER,Removed student: Charlie Brown
+2025-04-26 06:51:01,ADD_STUDENT,John,Doe,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 06:51:01,REMOVE_STUDENT,John,Doe,TEACHER,Removed student: Charlie Brown
+2025-04-26 07:09:37,ADD_STUDENT,John,Doe,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 07:09:37,REMOVE_STUDENT,John,Doe,TEACHER,Removed student: Charlie Brown
+2025-04-26 07:11:49,ADD_STUDENT,John,Doe,TEACHER,Added student: Alice Johnson with 0 tokens
+2025-04-26 07:13:18,ADD_STUDENT,John,Doe,TEACHER,Added student: Bob Wilson with 0 tokens
+2025-04-26 07:13:18,UPDATE_TOKENS,John,Doe,TEACHER,Updated tokens for Bob Wilson: 0 -> 5
+2025-04-26 07:13:44,ADD_STUDENT,John,Doe,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 07:13:44,UPDATE_TOKENS,Jane,Smith,STUDENT,Updated tokens for David Lee: 0 -> 5
+2025-04-26 07:14:22,ADD_STUDENT,John,Doe,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 07:14:22,UPDATE_TOKENS,Jane,Smith,STUDENT,Updated tokens for David Lee: 0 -> 5
+2025-04-26 13:06:38,ADD_STUDENT,John,Doe,TEACHER,Added student: Alice Johnson with 0 tokens
+2025-04-26 13:06:38,ADD_STUDENT,John,Doe,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 13:06:38,UPDATE_TOKENS,Jane,Smith,STUDENT,Updated tokens for David Lee: 0 -> 5
+2025-04-26 13:06:38,ADD_STUDENT,John,Doe,TEACHER,Added student: Bob Wilson with 0 tokens
+2025-04-26 13:06:38,UPDATE_TOKENS,John,Doe,TEACHER,Updated tokens for Bob Wilson: 0 -> 5
+2025-04-26 13:06:38,ADD_STUDENT,John,Doe,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 13:06:38,REMOVE_STUDENT,John,Doe,TEACHER,Removed student: Charlie Brown
+2025-04-26 13:06:59,ADD_STUDENT,John,Doe,TEACHER,Added student: Alice Johnson with 0 tokens
+2025-04-26 13:06:59,ADD_STUDENT,John,Doe,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 13:06:59,UPDATE_TOKENS,Jane,Smith,STUDENT,Updated tokens for David Lee: 0 -> 5
+2025-04-26 13:06:59,ADD_STUDENT,John,Doe,TEACHER,Added student: Bob Wilson with 0 tokens
+2025-04-26 13:06:59,UPDATE_TOKENS,John,Doe,TEACHER,Updated tokens for Bob Wilson: 0 -> 5
+2025-04-26 13:06:59,ADD_STUDENT,John,Doe,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 13:06:59,REMOVE_STUDENT,John,Doe,TEACHER,Removed student: Charlie Brown
+2025-04-26 13:08:28,ADD_STUDENT,John,Doe,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 13:08:28,UPDATE_TOKENS,Jane,Smith,STUDENT,Updated tokens for David Lee: 0 -> 5
+2025-04-26 13:09:28,ADD_STUDENT,John,Doe,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 13:09:28,UPDATE_TOKENS,Jane,Smith,STUDENT,Updated tokens for David Lee: 0 -> 5
+2025-04-26 13:09:52,ADD_STUDENT,John,Doe,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 13:09:52,UPDATE_TOKENS,Jane,Smith,STUDENT,Updated tokens for David Lee: 0 -> 5

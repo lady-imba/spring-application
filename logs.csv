@@ -1,0 +1,35 @@
+timestamp,action,userFirstName,userLastName,userRole,details
+2025-04-18 09:36:58,ADD_STUDENT,f,s,TEACHER,Added student: hh qq with 0 tokens
+2025-04-18 09:40:23,ADD_STUDENT,л,a,TEACHER,Added student: James Williams with 0 tokens
+2025-04-18 11:23:45,ADD_STUDENT,dd,ss,TEACHER,Added student: vera korolkova with 0 tokens
+2025-04-18 11:24:10,UPDATE_TOKENS,dd,ss,TEACHER,Updated tokens for vera korolkova: 0 -> 5
+2025-04-18 11:24:56,REMOVE_STUDENT,dd,ss,TEACHER,Removed student: Goof Cool
+2025-04-18 11:42:06,UPDATE_TOKENS,вв,dd,TEACHER,Updated tokens for vera korolkova: 5 -> 10005
+2025-04-25 12:05:05,UPDATE_TOKENS,1,1,TEACHER,Updated tokens for vera korolkova: 10005 -> 10006
+2025-04-25 12:09:47,UPDATE_TOKENS,1,2,TEACHER,Updated tokens for vera korolkova: 10006 -> 10206
+2025-04-25 12:10:05,ADD_STUDENT,1,2,TEACHER,Added student: po lo with 0 tokens
+2025-04-25 12:10:22,REMOVE_STUDENT,1,2,TEACHER,Removed student: po lo
+2025-04-25 12:13:17,UPDATE_TOKENS,1,2,TEACHER,Updated tokens for vera korolkova: 10206 -> 8206
+2025-04-26 07:39:00,ADD_STUDENT,Test,Teacher,TEACHER,Added student: Frank White with 0 tokens
+2025-04-26 07:39:00,ADD_STUDENT,Test,Teacher,TEACHER,Added student: Charlie Brown with 0 tokens
+2025-04-26 07:39:00,UPDATE_TOKENS,Test,Teacher,TEACHER,Updated tokens for Charlie Brown: 0 -> 5
+2025-04-26 07:39:00,ADD_STUDENT,Test,Teacher,TEACHER,Added student: David Lee with 0 tokens
+2025-04-26 07:39:00,ADD_STUDENT,Test,Teacher,TEACHER,Added student: Eve Black with 0 tokens
+2025-04-26 07:39:00,REMOVE_STUDENT,Test,Teacher,TEACHER,Removed student: Eve Black
+2025-04-26 07:39:00,ADD_STUDENT,Test,Teacher,TEACHER,Added student: Alice Johnson with 0 tokens
+2025-04-26 12:03:22,UPDATE_TOKENS,1,1,TEACHER,Updated tokens for vera korolkova: 8206 -> 8286
+2025-04-26 12:03:41,ADD_STUDENT,1,1,TEACHER,Added student: liza korobova with 0 tokens
+2025-04-26 12:03:54,REMOVE_STUDENT,1,1,TEACHER,Removed student: liza korobova
+2025-04-26 13:03:20,ADD_STUDENT,3,1,TEACHER,Added student: 5 1 with 0 tokens
+2025-04-26 13:04:17,ADD_STUDENT,Test,Teacher,TEACHER,Added student: Eve Black with 0 tokens
+2025-04-26 13:04:17,REMOVE_STUDENT,Test,Teacher,TEACHER,Removed student: Eve Black
+2025-04-26 13:21:10,UPDATE_TOKENS,мук,мука,TEACHER,Updated tokens for vera korolkova: 8286 -> 8196
+2025-05-10 19:42:01,UPDATE_TOKENS,Vera,Korolkova,TEACHER,Updated tokens for vera korolkova: 8196 -> 196
+2025-05-10 19:42:25,ADD_STUDENT,Vera,Korolkova,TEACHER,Added student: lo pooo with 0 tokens
+2025-05-17 09:46:16,UPDATE_TOKENS,Vera,Korolkova,TEACHER,Updated tokens for David Lee: 0 -> 10
+2025-05-17 09:46:38,ADD_STUDENT,Vera,Korolkova,TEACHER,Added student: liza liza with 0 tokens
+2025-05-17 09:46:52,REMOVE_STUDENT,Vera,Korolkova,TEACHER,Removed student: liza liza
+2025-05-17 14:43:04,UPDATE_TOKENS,м,с,TEACHER,Updated tokens for vera korolkova: 196 -> 296
+2025-05-17 14:43:40,UPDATE_TOKENS,м,с,TEACHER,Updated tokens for vera korolkova: 296 -> 196
+2025-05-17 14:43:53,ADD_STUDENT,м,с,TEACHER,Added student: l ll with 0 tokens
+2025-05-17 14:44:03,REMOVE_STUDENT,м,с,TEACHER,Removed student: l ll
